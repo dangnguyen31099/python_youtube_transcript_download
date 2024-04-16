@@ -1,0 +1,75 @@
+{'text': "hi i'm north turner in principle of", 'start': 0.0, 'duration': 4.89}
+{'text': 'turner healthcare quality consulting', 'start': 2.909, 'duration': 4.68}
+{'text': "it's my pleasure today to just make a", 'start': 4.89, 'duration': 5.43}
+{'text': 'few remarks about the momentum program', 'start': 7.589, 'duration': 5.22}
+{'text': "how I got connected to it things I've", 'start': 10.32, 'duration': 4.17}
+{'text': "learned and how it's really benefiting", 'start': 12.809, 'duration': 4.89}
+{'text': 'my business and so I started my business', 'start': 14.49, 'duration': 4.61}
+{'text': 'after many years in the industry', 'start': 17.699, 'duration': 3.901}
+{'text': 'pharmaceutical industry and in several', 'start': 19.1, 'duration': 6.28}
+{'text': 'other areas and I was looking for some', 'start': 21.6, 'duration': 5.73}
+{'text': 'type of a resource that could be', 'start': 25.38, 'duration': 3.54}
+{'text': 'available to help me understanding', 'start': 27.33, 'duration': 4.5}
+{'text': 'understand the consulting side I had the', 'start': 28.92, 'duration': 4.83}
+{'text': "expertise but I didn't know anything", 'start': 31.83, 'duration': 4.229}
+{'text': 'about consulting or really what that', 'start': 33.75, 'duration': 3.989}
+{'text': 'business entailed or how to really be', 'start': 36.059, 'duration': 2.761}
+{'text': 'successful at it', 'start': 37.739, 'duration': 4.32}
+{'text': 'and I came upon the momentum program and', 'start': 38.82, 'duration': 7.04}
+{'text': 'I knew okay this is targeted towards', 'start': 42.059, 'duration': 6.871}
+{'text': 'early-stage consultants which is where I', 'start': 45.86, 'duration': 6.37}
+{'text': 'fell and I realized you know I could', 'start': 48.93, 'duration': 5.129}
+{'text': 'really benefit from this and one of the', 'start': 52.23, 'duration': 4.5}
+{'text': 'early things I learned was from the', 'start': 54.059, 'duration': 5.191}
+{'text': 'program what was what kind of business', 'start': 56.73, 'duration': 5.489}
+{'text': "I'm in that I'm not in a subject matter", 'start': 59.25, 'duration': 5.22}
+{'text': 'expert business not really about my', 'start': 62.219, 'duration': 4.231}
+{'text': "expertise yes that's a prerequisite to", 'start': 64.47, 'duration': 4.89}
+{'text': "be a consultant but I'm in a people", 'start': 66.45, 'duration': 5.37}
+{'text': "business and I'm in a marketing business", 'start': 69.36, 'duration': 4.38}
+{'text': 'and then you know what does that really', 'start': 71.82, 'duration': 3.6}
+{'text': 'entail the momentum program really', 'start': 73.74, 'duration': 3.96}
+{'text': 'helped me with that it also really', 'start': 75.42, 'duration': 4.05}
+{'text': 'helped validate things that I was', 'start': 77.7, 'duration': 3.169}
+{'text': 'already thinking which was around', 'start': 79.47, 'duration': 4.35}
+{'text': 'specialization being focused as opposed', 'start': 80.869, 'duration': 5.381}
+{'text': 'to a generalist that was something is', 'start': 83.82, 'duration': 4.95}
+{'text': 'what I was thinking was an approach to', 'start': 86.25, 'duration': 4.68}
+{'text': 'take to my business the momentum program', 'start': 88.77, 'duration': 5.82}
+{'text': 'helped really validate that I also', 'start': 90.93, 'duration': 6.66}
+{'text': 'really learned a lot about messaging the', 'start': 94.59, 'duration': 5.25}
+{'text': 'section on magnetic messaging that', 'start': 97.59, 'duration': 4.77}
+{'text': 'helped me really with the language that', 'start': 99.84, 'duration': 5.55}
+{'text': 'I used in my website and I feel as', 'start': 102.36, 'duration': 4.619}
+{'text': 'though I have a really effective website', 'start': 105.39, 'duration': 3.68}
+{'text': "it's helped establish the credibility", 'start': 106.979, 'duration': 5.371}
+{'text': 'that I need that really helps get me to', 'start': 109.07, 'duration': 4.75}
+{'text': 'those first meetings with prospective', 'start': 112.35, 'duration': 4.049}
+{'text': 'clients and the messaging that I got', 'start': 113.82, 'duration': 4.649}
+{'text': 'from the moonmoon program really helped', 'start': 116.399, 'duration': 4.441}
+{'text': 'me tether my website to serve that', 'start': 118.469, 'duration': 4.531}
+{'text': 'purpose you know other things that', 'start': 120.84, 'duration': 5.669}
+{'text': 'really have been tangible learnings have', 'start': 123.0, 'duration': 7.08}
+{'text': 'been around setting my my fees and the', 'start': 126.509, 'duration': 7.021}
+{'text': "pricing for proposals I've got a really", 'start': 130.08, 'duration': 6.63}
+{'text': 'approach to that I feel and the template', 'start': 133.53, 'duration': 5.52}
+{'text': 'that the moment program offered was an', 'start': 136.71, 'duration': 4.29}
+{'text': "important foundation it's really working", 'start': 139.05, 'duration': 4.95}
+{'text': "where well where it's helping really", 'start': 141.0, 'duration': 5.7}
+{'text': 'direct traffic to my website and also', 'start': 144.0, 'duration': 5.52}
+{'text': 'helping me get various conversations', 'start': 146.7, 'duration': 4.65}
+{'text': "that I otherwise wouldn't have that I", 'start': 149.52, 'duration': 3.63}
+{'text': 'can see over time leading to new', 'start': 151.35, 'duration': 4.859}
+{'text': "business so so that's really really been", 'start': 153.15, 'duration': 4.98}
+{'text': 'great and I also have a renewed focus on', 'start': 156.209, 'duration': 3.451}
+{'text': 'elevating my thought leadership through', 'start': 158.13, 'duration': 3.39}
+{'text': 'various channels increasing my writing', 'start': 159.66, 'duration': 5.34}
+{'text': 'and also speaking over time so I just', 'start': 161.52, 'duration': 5.16}
+{'text': 'like to finish by saying thanks to to', 'start': 165.0, 'duration': 3.3}
+{'text': 'Sam and to Michael for developing this', 'start': 166.68, 'duration': 3.99}
+{'text': "program it's been really wonderful for", 'start': 168.3, 'duration': 4.62}
+{'text': 'me in these first six months of a new', 'start': 170.67, 'duration': 5.01}
+{'text': 'business and hopefully for those of you', 'start': 172.92, 'duration': 4.53}
+{'text': 'who may are considering the momentum', 'start': 175.68, 'duration': 3.99}
+{'text': "program it's definitely worth the", 'start': 177.45, 'duration': 4.43}
+{'text': 'investment', 'start': 179.67, 'duration': 2.21}

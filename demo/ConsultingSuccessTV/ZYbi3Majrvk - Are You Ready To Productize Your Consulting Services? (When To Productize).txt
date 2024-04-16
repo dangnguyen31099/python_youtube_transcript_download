@@ -1,0 +1,110 @@
+{'text': 'productization is a Hot Topic many', 'start': 0.26, 'duration': 4.48}
+{'text': 'consultants want to productize their', 'start': 3.0, 'duration': 3.42}
+{'text': "consulting services but here's one", 'start': 4.74, 'duration': 3.3}
+{'text': 'important distinction or at least', 'start': 6.42, 'duration': 4.139}
+{'text': 'consideration for you and that is sort', 'start': 8.04, 'duration': 5.759}
+{'text': 'of in LA right now at a hotel for doing', 'start': 10.559, 'duration': 5.64}
+{'text': "a mastermind with clients and there's I", 'start': 13.799, 'duration': 3.661}
+{'text': "don't know some helicopters in office", 'start': 16.199, 'duration': 2.521}
+{'text': 'police helicopter or something else', 'start': 17.46, 'duration': 4.8}
+{'text': 'going off uh above so hopefully uh you', 'start': 18.72, 'duration': 5.04}
+{'text': 'can still hear me but the the', 'start': 22.26, 'duration': 4.38}
+{'text': 'distinction with productization is that', 'start': 23.76, 'duration': 5.82}
+{'text': "it's really hard to do and I would say", 'start': 26.64, 'duration': 4.979}
+{'text': 'not the right approach if you are early', 'start': 29.58, 'duration': 4.68}
+{'text': 'stage in your Consulting business and so', 'start': 31.619, 'duration': 5.46}
+{'text': 'the reason for that is that in order to', 'start': 34.26, 'duration': 5.819}
+{'text': 'effectively productize you need to make', 'start': 37.079, 'duration': 6.121}
+{'text': 'decisions you need to really have enough', 'start': 40.079, 'duration': 5.281}
+{'text': 'data behind you to know what the market', 'start': 43.2, 'duration': 4.62}
+{'text': 'wants you need to know what you are and', 'start': 45.36, 'duration': 4.92}
+{'text': 'better at typically delivering it', 'start': 47.82, 'duration': 3.899}
+{'text': "doesn't mean you can do it it just means", 'start': 50.28, 'duration': 3.119}
+{'text': "that it's more challenging so you know", 'start': 51.719, 'duration': 4.561}
+{'text': 'when I look across hundreds of', 'start': 53.399, 'duration': 5.041}
+{'text': "Consultants we've personally helped to", 'start': 56.28, 'duration': 4.5}
+{'text': 'productize their their Consulting', 'start': 58.44, 'duration': 3.2}
+{'text': 'Services', 'start': 60.78, 'duration': 4.199}
+{'text': 'the most successful ones are those who', 'start': 61.64, 'duration': 4.9}
+{'text': 'have already been Consulting for a', 'start': 64.979, 'duration': 3.901}
+{'text': 'period of time and you know that can be', 'start': 66.54, 'duration': 4.86}
+{'text': "even a year it doesn't have to be long", 'start': 68.88, 'duration': 3.779}
+{'text': 'but', 'start': 71.4, 'duration': 3.48}
+{'text': 'the the process for effectively', 'start': 72.659, 'duration': 3.541}
+{'text': 'productizing your Consulting Services', 'start': 74.88, 'duration': 3.779}
+{'text': 'comes down to again understanding what', 'start': 76.2, 'duration': 4.32}
+{'text': 'are you best of delivering what are you', 'start': 78.659, 'duration': 3.481}
+{'text': 'able to you know what where are you able', 'start': 80.52, 'duration': 3.72}
+{'text': 'to kind of create the highest uh and', 'start': 82.14, 'duration': 3.839}
+{'text': 'most valuable results for clients where', 'start': 84.24, 'duration': 2.699}
+{'text': 'can you where can you achieve the', 'start': 85.979, 'duration': 2.941}
+{'text': 'quickest results what is most profitable', 'start': 86.939, 'duration': 3.901}
+{'text': 'for you to deliver what is least', 'start': 88.92, 'duration': 3.96}
+{'text': 'profitable for you to deliver what', 'start': 90.84, 'duration': 4.02}
+{'text': 'clients do you really enjoy working most', 'start': 92.88, 'duration': 3.84}
+{'text': "with and and which ones you know don't", 'start': 94.86, 'duration': 4.079}
+{'text': 'you enjoy working with most', 'start': 96.72, 'duration': 4.079}
+{'text': 'um what kind of model you know do you do', 'start': 98.939, 'duration': 3.121}
+{'text': 'you want to have what kind of again like', 'start': 100.799, 'duration': 3.481}
+{'text': 'offerings or or services or Focus do you', 'start': 102.06, 'duration': 4.5}
+{'text': 'want to have and so when you take it', 'start': 104.28, 'duration': 4.08}
+{'text': 'into consideration all of those', 'start': 106.56, 'duration': 4.08}
+{'text': "different components you're able to to", 'start': 108.36, 'duration': 4.56}
+{'text': "say yeah you know I've typically maybe", 'start': 110.64, 'duration': 5.1}
+{'text': "uh gone through let's say five different", 'start': 112.92, 'duration': 5.64}
+{'text': 'phases or stages to deliver my typical', 'start': 115.74, 'duration': 4.199}
+{'text': "Consulting engagement but what I've", 'start': 118.56, 'duration': 4.32}
+{'text': 'realized is that at stage two and three', 'start': 119.939, 'duration': 4.5}
+{'text': "is where I'm actually able to deliver", 'start': 122.88, 'duration': 4.62}
+{'text': "the greatest value it's where clients", 'start': 124.439, 'duration': 5.1}
+{'text': 'have the greatest demand where the the', 'start': 127.5, 'duration': 5.52}
+{'text': 'need is is kind of most acute and and', 'start': 129.539, 'duration': 5.28}
+{'text': 'where I can also because I can create', 'start': 133.02, 'duration': 4.14}
+{'text': 'the highest value I can also charge the', 'start': 134.819, 'duration': 4.681}
+{'text': 'most for it and so if you understand all', 'start': 137.16, 'duration': 4.38}
+{'text': 'those different components and if you', 'start': 139.5, 'duration': 4.26}
+{'text': "can also see that there's a way to scale", 'start': 141.54, 'duration': 4.8}
+{'text': 'that a way to productize that', 'start': 143.76, 'duration': 4.26}
+{'text': 'um you know and and build some processes', 'start': 146.34, 'duration': 3.18}
+{'text': 'and systems around us and you can', 'start': 148.02, 'duration': 3.359}
+{'text': 'deliver with greater leverage or you can', 'start': 149.52, 'duration': 4.2}
+{'text': 'even train others to to deliver that for', 'start': 151.379, 'duration': 3.601}
+{'text': 'you maybe you have a team or maybe you', 'start': 153.72, 'duration': 4.2}
+{'text': "don't but but that's where you can see", 'start': 154.98, 'duration': 4.68}
+{'text': 'the greatest results whereas if you', 'start': 157.92, 'duration': 4.26}
+{'text': "don't have or you can't answer those", 'start': 159.66, 'duration': 5.4}
+{'text': 'questions well right now then your', 'start': 162.18, 'duration': 4.5}
+{'text': 'product your attempts at productization', 'start': 165.06, 'duration': 3.0}
+{'text': 'are probably not going to be as', 'start': 166.68, 'duration': 2.88}
+{'text': "effective as you want again I'm not", 'start': 168.06, 'duration': 3.0}
+{'text': 'saying you can do it you certainly can', 'start': 169.56, 'duration': 3.84}
+{'text': 'but what I would encourage most', 'start': 171.06, 'duration': 4.44}
+{'text': 'Consultants to do is get out there right', 'start': 173.4, 'duration': 4.14}
+{'text': 'start making off your your offerings try', 'start': 175.5, 'duration': 3.239}
+{'text': 'different things get a bit of data', 'start': 177.54, 'duration': 2.64}
+{'text': 'behind you to know what is most', 'start': 178.739, 'duration': 3.36}
+{'text': 'profitable what do you enjoy delivering', 'start': 180.18, 'duration': 3.6}
+{'text': 'the most where can you create the', 'start': 182.099, 'duration': 4.081}
+{'text': 'greatest value what do you see clients', 'start': 183.78, 'duration': 4.2}
+{'text': 'or prospective clients want the most', 'start': 186.18, 'duration': 2.82}
+{'text': "that they're asking the most questions", 'start': 187.98, 'duration': 2.46}
+{'text': 'about right', 'start': 189.0, 'duration': 3.0}
+{'text': "um and what's having the biggest impact", 'start': 190.44, 'duration': 3.12}
+{'text': 'on their organization and then when you', 'start': 192.0, 'duration': 3.36}
+{'text': 'can kind of analyze some of that data', 'start': 193.56, 'duration': 3.959}
+{'text': "then you're in a really great place to", 'start': 195.36, 'duration': 4.26}
+{'text': 'be very strategical making those those', 'start': 197.519, 'duration': 3.661}
+{'text': 'decisions around how to effectively', 'start': 199.62, 'duration': 3.06}
+{'text': 'productize', 'start': 201.18, 'duration': 3.24}
+{'text': "um and let's we've done a lot of work", 'start': 202.68, 'duration': 4.559}
+{'text': 'with clients in that area and so if', 'start': 204.42, 'duration': 4.14}
+{'text': "you're looking to productize your", 'start': 207.239, 'duration': 2.941}
+{'text': 'consulting services in the most effect', 'start': 208.56, 'duration': 3.3}
+{'text': 'effective and efficient way to really', 'start': 210.18, 'duration': 3.059}
+{'text': 'scale and grow your Consulting business', 'start': 211.86, 'duration': 3.84}
+{'text': 'to the next level uh just Reach Out get', 'start': 213.239, 'duration': 3.841}
+{'text': 'in touch through Consulting success.com', 'start': 215.7, 'duration': 3.24}
+{'text': "and we'd love to hear from you and and", 'start': 217.08, 'duration': 3.78}
+{'text': 'talk to you about how you can best do', 'start': 218.94, 'duration': 2.93}
+{'text': 'that', 'start': 220.86, 'duration': 8.589}
+{'text': '[Music]', 'start': 221.87, 'duration': 7.579}

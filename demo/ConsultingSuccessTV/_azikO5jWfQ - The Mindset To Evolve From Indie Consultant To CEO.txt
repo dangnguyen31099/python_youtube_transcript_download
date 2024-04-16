@@ -1,0 +1,115 @@
+{'text': 'with with one of our clients recently um', 'start': 0.08, 'duration': 4.08}
+{'text': 'you know a higher level client in one of', 'start': 2.399, 'duration': 3.92}
+{'text': 'our coaching programs who fairly', 'start': 4.16, 'duration': 4.0}
+{'text': 'recently made the shift from being a', 'start': 6.319, 'duration': 4.561}
+{'text': 'very successful solo consultant to and', 'start': 8.16, 'duration': 5.28}
+{'text': 'viewing themselves as a consultant to to', 'start': 10.88, 'duration': 4.639}
+{'text': 'now looking themselves as a ceo and', 'start': 13.44, 'duration': 4.56}
+{'text': 'building a team around her and really', 'start': 15.519, 'duration': 4.401}
+{'text': 'seeing you know great things happening a', 'start': 18.0, 'duration': 3.76}
+{'text': "lot of progress being made and it's a", 'start': 19.92, 'duration': 4.32}
+{'text': 'very interesting shift from you know', 'start': 21.76, 'duration': 4.24}
+{'text': "having the mindset of i'm i'm a", 'start': 24.24, 'duration': 4.56}
+{'text': "consultant to oh no not i'm a leader i'm", 'start': 26.0, 'duration': 5.439}
+{'text': 'a ceo right i have to operate like that', 'start': 28.8, 'duration': 3.599}
+{'text': 'for', 'start': 31.439, 'duration': 3.041}
+{'text': 'in order for somebody to step up to that', 'start': 32.399, 'duration': 4.32}
+{'text': 'higher level and and when i say hi i', 'start': 34.48, 'duration': 3.759}
+{'text': "don't necessarily necessarily mean", 'start': 36.719, 'duration': 2.801}
+{'text': 'better but just a different level', 'start': 38.239, 'duration': 2.881}
+{'text': 'because you have to see different things', 'start': 39.52, 'duration': 2.8}
+{'text': 'think about different things right focus', 'start': 41.12, 'duration': 2.56}
+{'text': 'on different things your role is', 'start': 42.32, 'duration': 3.36}
+{'text': 'different uh you you need to develop as', 'start': 43.68, 'duration': 4.0}
+{'text': 'a person right or as a leader what do', 'start': 45.68, 'duration': 3.84}
+{'text': 'you typically suggest that people do', 'start': 47.68, 'duration': 2.8}
+{'text': 'what are some of the kind of the best', 'start': 49.52, 'duration': 4.48}
+{'text': 'practices for personal development', 'start': 50.48, 'duration': 5.919}
+{'text': "so there's many but one of the things i", 'start': 54.0, 'duration': 5.199}
+{'text': 'would say first and foremost and and', 'start': 56.399, 'duration': 4.64}
+{'text': 'this is always a big aha moment for', 'start': 59.199, 'duration': 5.28}
+{'text': 'people is to recognize that', 'start': 61.039, 'duration': 5.841}
+{'text': 'they are not the company', 'start': 64.479, 'duration': 4.401}
+{'text': 'like that person is not the company', 'start': 66.88, 'duration': 3.52}
+{'text': 'right', 'start': 68.88, 'duration': 4.239}
+{'text': 'and and i think that separation is like', 'start': 70.4, 'duration': 4.96}
+{'text': 'a really big step for for many people as', 'start': 73.119, 'duration': 4.401}
+{'text': 'they as their businesses start to grow', 'start': 75.36, 'duration': 3.36}
+{'text': 'and i think', 'start': 77.52, 'duration': 3.599}
+{'text': 'uh within that as well then is how do', 'start': 78.72, 'duration': 4.079}
+{'text': 'you surround yourself with the best', 'start': 81.119, 'duration': 3.761}
+{'text': 'people possible in their discipline like', 'start': 82.799, 'duration': 3.921}
+{'text': 'your team should be', 'start': 84.88, 'duration': 3.44}
+{'text': 'better than you at that thing that', 'start': 86.72, 'duration': 3.12}
+{'text': "they're doing otherwise you haven't got", 'start': 88.32, 'duration': 4.32}
+{'text': 'the right team so whereas you know', 'start': 89.84, 'duration': 4.56}
+{'text': "sometimes i think when it's your", 'start': 92.64, 'duration': 3.68}
+{'text': 'business you can want to have complete', 'start': 94.4, 'duration': 4.64}
+{'text': 'control over everything and that letting', 'start': 96.32, 'duration': 5.04}
+{'text': 'go of control and recognizing that the', 'start': 99.04, 'duration': 4.64}
+{'text': "business is now an entity and it's not", 'start': 101.36, 'duration': 4.64}
+{'text': 'you is a big step change i think for for', 'start': 103.68, 'duration': 5.04}
+{'text': 'a lot of a lot of entrepreneurs so', 'start': 106.0, 'duration': 4.72}
+{'text': 'stepping into that but then and then on', 'start': 108.72, 'duration': 6.399}
+{'text': 'the back of that is you know step is', 'start': 110.72, 'duration': 5.92}
+{'text': 'well it depends what stage your business', 'start': 115.119, 'duration': 3.761}
+{'text': 'is at so you know we touched earlier on', 'start': 116.64, 'duration': 3.519}
+{'text': 'on um', 'start': 118.88, 'duration': 2.96}
+{'text': 'you know on the um', 'start': 120.159, 'duration': 4.0}
+{'text': 'on the 2y3 x program like joining an', 'start': 121.84, 'duration': 4.4}
+{'text': 'accelerator is always brilliant because', 'start': 124.159, 'duration': 3.6}
+{'text': 'you have and we have the same with the', 'start': 126.24, 'duration': 2.719}
+{'text': 'accelerate program at the georgia', 'start': 127.759, 'duration': 4.241}
+{'text': 'business school you have access to 10', 'start': 128.959, 'duration': 5.681}
+{'text': 'coaches who all have different areas of', 'start': 132.0, 'duration': 5.04}
+{'text': 'expertise you know and who can all help', 'start': 134.64, 'duration': 4.64}
+{'text': 'you based on you know do you need to get', 'start': 137.04, 'duration': 4.16}
+{'text': 'advice on intellectual property or do', 'start': 139.28, 'duration': 3.52}
+{'text': 'you need to get advice on company', 'start': 141.2, 'duration': 4.08}
+{'text': "formation so based on where you're at", 'start': 142.8, 'duration': 4.799}
+{'text': 'and then right through to uh programs', 'start': 145.28, 'duration': 4.64}
+{'text': 'like the accelerator which is okay you', 'start': 147.599, 'duration': 4.561}
+{'text': 'know we want to we want to like double', 'start': 149.92, 'duration': 4.399}
+{'text': 'triple our revenue like we have big', 'start': 152.16, 'duration': 4.88}
+{'text': 'ambitious goals and how do we achieve', 'start': 154.319, 'duration': 5.841}
+{'text': 'that and how do we create something that', 'start': 157.04, 'duration': 6.32}
+{'text': "is um not not so big that it's", 'start': 160.16, 'duration': 4.96}
+{'text': "overwhelming and we can't do anything", 'start': 163.36, 'duration': 3.599}
+{'text': 'with it you know and then one year to', 'start': 165.12, 'duration': 3.28}
+{'text': 'the next to the next like we always have', 'start': 166.959, 'duration': 2.801}
+{'text': 'these big ambitions but we never', 'start': 168.4, 'duration': 2.72}
+{'text': 'actually managed to get there because we', 'start': 169.76, 'duration': 3.6}
+{'text': "haven't put any plans in place so i", 'start': 171.12, 'duration': 4.32}
+{'text': 'think um', 'start': 173.36, 'duration': 3.68}
+{'text': 'i think in terms of', 'start': 175.44, 'duration': 2.64}
+{'text': 'um', 'start': 177.04, 'duration': 3.36}
+{'text': 'in terms of if businesses are looking', 'start': 178.08, 'duration': 3.76}
+{'text': 'for growth', 'start': 180.4, 'duration': 3.759}
+{'text': 'the thing i would say first and foremost', 'start': 181.84, 'duration': 5.36}
+{'text': 'is get clear on what that growth looks', 'start': 184.159, 'duration': 6.16}
+{'text': 'like but just be clear is that a revenue', 'start': 187.2, 'duration': 5.36}
+{'text': 'target is it you know do you want to', 'start': 190.319, 'duration': 4.0}
+{'text': "expand internationally like what's the", 'start': 192.56, 'duration': 3.039}
+{'text': 'ambition', 'start': 194.319, 'duration': 2.801}
+{'text': 'and then', 'start': 195.599, 'duration': 3.761}
+{'text': 'you know again just coming back to the', 'start': 197.12, 'duration': 3.6}
+{'text': "two-year threats program let's break", 'start': 199.36, 'duration': 2.72}
+{'text': 'that down what does that look like year', 'start': 200.72, 'duration': 3.04}
+{'text': 'one year two year three what does that', 'start': 202.08, 'duration': 3.68}
+{'text': 'look like quarter by quarter', 'start': 203.76, 'duration': 4.32}
+{'text': 'and and how do you implement that', 'start': 205.76, 'duration': 4.479}
+{'text': 'because you know one of the exercises i', 'start': 208.08, 'duration': 3.519}
+{'text': 'pushed through that out on a linked', 'start': 210.239, 'duration': 2.64}
+{'text': 'impulse on', 'start': 211.599, 'duration': 3.601}
+{'text': 'earlier this year which is', 'start': 212.879, 'duration': 4.241}
+{'text': "if you've got a diary", 'start': 215.2, 'duration': 4.72}
+{'text': 'go to the last page of your diary', 'start': 217.12, 'duration': 5.44}
+{'text': 'and write in that page what the last 12', 'start': 219.92, 'duration': 4.0}
+{'text': 'months was like', 'start': 222.56, 'duration': 4.399}
+{'text': 'like take yourself forward to that point', 'start': 223.92, 'duration': 5.039}
+{'text': "and actually document what's just", 'start': 226.959, 'duration': 4.64}
+{'text': 'happened in the last 12 months yeah and', 'start': 228.959, 'duration': 4.961}
+{'text': 'even that as an exercise gives you a', 'start': 231.599, 'duration': 5.28}
+{'text': 'level of clarity which is okay what is', 'start': 233.92, 'duration': 4.959}
+{'text': 'it i actually want to have happen and', 'start': 236.879, 'duration': 5.36}
+{'text': 'how do i take control of that', 'start': 238.879, 'duration': 3.36}
